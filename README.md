@@ -49,7 +49,7 @@ This is a simple Flappy Bird clone built using Java and the Swing library. The g
 - Improve graphics with smoother animations
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the[MIT License](https://github.com/R4M-0/Flappy_Bird_Java/blob/master/LICENSE).
 
 ## Acknowledgments
 Inspired by the original Flappy Bird game developed by Dong Nguyen.
